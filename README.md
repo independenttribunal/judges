@@ -1,6 +1,6 @@
 # Judges database: public site
 
-Served at **https://independenttribunal.org/judges/**.
+Served at **https://judges.independenttribunal.org/** (until DNS is set: https://independenttribunal.github.io/judges/).
 
 This repository holds only the built site. It is generated daily from the
 Independent Tribunal judges database and overwritten on each build, so edits
