@@ -1,0 +1,32 @@
+[
+ {
+  "population": "Court judges (England & Wales)",
+  "official": 3578,
+  "held": 1393,
+  "note": "Missing chiefly Recorders and Deputy District Judges: judiciary.uk publishes no list for either."
+ },
+ {
+  "population": "Tribunal judges and non-legal members",
+  "official": 4785,
+  "held": 0,
+  "note": "Not yet collected. Separate rosters, separate sources."
+ },
+ {
+  "population": "Magistrates",
+  "official": 14636,
+  "held": 0,
+  "note": "Not collected. Lay magistrates sit in threes and decide collectively, so individual attribution is neither possible nor meaningful."
+ },
+ {
+  "population": "Judges sitting in retirement",
+  "official": 248,
+  "held": 0,
+  "note": "Not collected; no published list."
+ },
+ {
+  "population": "JCIO disciplinary statements (currently published)",
+  "official": null,
+  "held": 311,
+  "note": "Complete mirror of what the JCIO publishes today, full text. 229 of 269 concern office-holders on no roster we hold -- magistrates, tribunal members, employment judges, coroners. Removals can never match a current roster: a removed judge is by definition off it."
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "what": "Recorders",
+  "detail": "No published list. Fee-paid Crown Court judges who run trials and pass custodial sentences.",
+  "route": "FOI to the Judicial Office; JAC appointment announcements; The Gazette"
+ },
+ {
+  "what": "Deputy District Judges",
+  "detail": "No published list. Fee-paid.",
+  "route": "FOI to the Judicial Office"
+ },
+ {
+  "what": "Crown Court judgments",
+  "detail": "Not published anywhere. Recoverable only where a case is appealed and the Court of Appeal names the judge below.",
+  "route": "EWCA Crim full-text search; court observation; transcript purchase"
+ },
+ {
+  "what": "Crown Court sitting records",
+  "detail": "Cause lists are published daily and deleted daily. Not archived by anyone.",
+  "route": "HMCTS listing feed request; daily capture"
+ },
+ {
+  "what": "Judicial interests",
+  "detail": "England and Wales has no register of judicial interests. Scotland publishes recusals only.",
+  "route": "FOI; case-by-case from judgments"
+ },
+ {
+  "what": "Judicial gifts and hospitality",
+  "detail": "No published register for the judiciary of England and Wales. Parliament publishes one, councils are required to, and the NI Department of Justice does.",
+  "route": "FOI to the Judicial Office"
+ },
+ {
+  "what": "Fee-paid sitting counts",
+  "detail": "Daily rates are published; the number of days each fee-paid judge sits is not, so their earnings cannot be computed.",
+  "route": "FOI to HMCTS"
+ },
+ {
+  "what": "Post-retirement earnings",
+  "detail": "Arbitration and inquiry work by former judges. Inquiry fees appear in inquiry accounts; arbitration is private.",
+  "route": "Inquiry annual accounts; Companies House directorships"
+ },
+ {
+  "what": "JCIO disciplinary statements",
+  "detail": "Published then DELETED: one year for sanctions below removal, five years for removals. The public record of judicial misconduct has a one-year memory. Nobody archives it.",
+  "route": "Mirror complaints.judicialconduct.gov.uk now; request deleted statements by email"
+ },
+ {
+  "what": "Pupillage supervisors",
+  "detail": "A real one-to-one relationship, but pupillage records are held by the Inns and BSB and are not public.",
+  "route": "Who's Who; obituaries; interviews; Inn records by request"
+ }
+]
